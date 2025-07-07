@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-slint = "1.12.1"
+iced = "0.12"
+serde = "1.0.219"
+steamlocate = "2.0.1"
+tokio = "1.46.1"
